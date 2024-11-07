@@ -16,7 +16,7 @@ export default function Card() {
           <div className="card-body p-[20px]">
             <h5 className="card-title">Hydro Cool Serum</h5>
             <p className="card-text">
-              "Experience the pure essence of radiant beauty with Saki Care. Nourish and hydrate your skin for a natural, glowing vitality."
+            &quot;Experience the pure essence of radiant beauty with Saki Care. Nourish and hydrate your skin for a natural, glowing vitality.&quot;
             </p>
             <button className='butt'>   <Link href="https://goodhabitskin.com" className="btn btn-primary">
               Order Now
@@ -32,7 +32,7 @@ export default function Card() {
           <div className="card-body p-[20px]">
             <h5 className="card-title">Vitamin-E Serum</h5>
             <p className="card-text">
-              "Unlock the secret to radiant skin with Saki Care. Our natural products nourish and hydrate, leaving your skin smooth and glowing."
+            &quot;Unlock the secret to radiant skin with Saki Care. Our natural products nourish and hydrate, leaving your skin smooth and glowing.&quot;
             </p>
             <button className='butt'>   <Link href="https://goodhabitskin.com" className="btn btn-primary">
               Order Now
@@ -46,7 +46,7 @@ export default function Card() {
           <div className="card-body p-[20px]">
             <h5 className="card-title">Vitamin+O Serum</h5>
             <p className="card-text">
-              "Experience the pure essence of radiant beauty with Saki Care. Nourish and hydrate your skin for a natural, glowing vitality."
+            &quot;Experience the pure essence of radiant beauty with Saki Care. Nourish and hydrate your skin for a natural, glowing vitality.&quot;
             </p>
             <button  className='butt'>   <Link href="https://goodhabitskin.com" className="btn btn-primary">
               Order Now

@@ -33,7 +33,7 @@ const About = () => {
       <section className="mb-12 p-6 rounded-lg shadow-lg bg-gradient-to-br from-blue-100 to-blue-200">
         <h2 className="text-3xl font-semibold mb-4 text-blue-600">From the Founder</h2>
         <p className="text-lg leading-relaxed text-gray-800 italic">
-          "At Cerum, we believe that skincare should be simple, effective, and rooted in nature. Our mission is to provide products that make people feel good in their own skin, using the best that nature has to offer."
+        &quot;At Cerum, we believe that skincare should be simple, effective, and rooted in nature. Our mission is to provide products that make people feel good in their own skin, using the best that nature has to offer.&quot;
         </p>
       </section>
 
@@ -49,10 +49,10 @@ const About = () => {
       <section className="mb-12 p-6 rounded-lg shadow-lg bg-blue-50">
         <h2 className="text-3xl font-semibold mb-4 text-blue-600">What Our Customers Say</h2>
         <blockquote className="text-lg italic text-gray-700 border-l-4 border-blue-500 pl-4 mb-4">
-          "Cerum's Vitamin-E serum transformed my skin! It feels softer, looks brighter, and has a beautiful natural glow." - Sarah M.
+        &quot;Cerum&apos;s Vitamin-E serum transformed my skin! It feels softer, looks brighter, and has a beautiful natural glow.&quot; - Sarah M.
         </blockquote>
         <blockquote className="text-lg italic text-gray-700 border-l-4 border-blue-500 pl-4 mb-4">
-          "I love the commitment to sustainability, and my skin has never been happier!" - Jamie L.
+        &quot;I love the commitment to sustainability, and my skin has never been happier!&quot; - Jamie L.
         </blockquote>
       </section>
     </div>

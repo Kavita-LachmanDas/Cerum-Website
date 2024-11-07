@@ -13,8 +13,8 @@ export default function Card2() {
           <div className="card-body p-[20px]">
             <h5 className="card-title">SPF+2 Serum</h5>
             <p className="card-text">
-              "Unlock the secret to radiant skin with Saki Care. Our natural products nourish and hydrate, leaving your skin smooth and glowing. Embrace the pure essence of vitality as you revitalize and renew your complexion..
-              "
+            &quot;Unlock the secret to radiant skin with Saki Care. Our natural products nourish and hydrate, leaving your skin smooth and glowing. Embrace the pure essence of vitality as you revitalize and renew your complexion..
+            &quot;
             </p>
             <button className='butt'>   <Link href="https://goodhabitskin.com" className="btn btn-primary">
               Order Now
@@ -29,7 +29,7 @@ export default function Card2() {
           <div className="card-body p-[20px]">
             <h5 className="card-title">Charcoal Serum</h5>
             <p className="card-text">
-            "Experience the pure essence of radiant beauty with Saki Care. Nourish and hydrate your skin for a natural, glowing vitality. Our luxe products revitalize and renew, offering a smooth, soft touch that refreshes and balances".
+            &quot;Experience the pure essence of radiant beauty with Saki Care. Nourish and hydrate your skin for a natural, glowing vitality. Our luxe products revitalize and renew, offering a smooth, soft touch that refreshes and balances&quot;.
 
             </p>
             <button className='butt'>   <Link href="https://goodhabitskin.com" className="btn btn-primary">
@@ -44,7 +44,7 @@ export default function Card2() {
           <div className="card-body p-[20px]">
             <h5 className="card-title">Neem+SPF Serum</h5>
             <p className="card-text">
-            "Unlock the secret to radiant skin with Saki Care. Our natural products nourish and hydrate, leaving your skin smooth and glowing. Embrace the pure essence of vitality as you revitalize and renew your complexion."
+            &quot;Unlock the secret to radiant skin with Saki Care. Our natural products nourish and hydrate, leaving your skin smooth and glowing. Embrace the pure essence of vitality as you revitalize and renew your complexion.&quot;
 
             </p>
             <button className='butt'>   <Link href="https://goodhabitskin.com" className="btn btn-primary">

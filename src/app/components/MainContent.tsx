@@ -26,7 +26,7 @@ const MainContent = () => {
 
    <div className="card w-[400px] p-5 text-center">
     <h1 className='text-black font-serif text-[25px]'> Our Serivices</h1>
-    <p className='text-black '>We offer a wide range of services to meet your needs. From skin care to salon services, we've got you covered.</p>
+    <p className='text-black '>We offer a wide range of services to meet your needs. From skin care to salon services, we&apos;ve got you covered.</p>
    </div>
 
 
