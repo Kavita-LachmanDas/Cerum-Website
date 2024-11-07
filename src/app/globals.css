@@ -4,6 +4,7 @@
 
 /* General Styles */
 body, html {
+ overflow-x: hidden;
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
@@ -238,7 +239,34 @@ footer {
   margin: 10% auto;
   margin-top: 20%;
 }
-
+@media (max-width:1200px) {
+ #login-form{
+  position: relative;
+  top: 50px;
+ 
+ }
+}
+@media (max-width:833px) {
+  #login-form{
+   position: relative;
+   top: 100px;
+  
+  }
+ }
+ @media (max-width:660px) {
+  #login-form{
+   position: relative;
+   top: 120px;
+  
+  }
+ }
+ @media (max-width:520px) {
+  #login-form{
+   position: relative;
+   top: 160px;
+  
+  }
+ }
 #login-form h2 {
   margin-bottom: 1rem;
 }
@@ -315,6 +343,14 @@ body {
   background-color: white;
   border-radius: 20px;
 }
+@media (max-width:450px) {
+  .card{
+   position: relative;
+right: 2px;
+width: 250px;
+  
+  }
+ }
 .swiper {
   width: 100%;
 
@@ -330,7 +366,55 @@ body {
   justify-content: center;
   align-items: center;
 }
+@media (max-width:1200px) {
+  .mySwiper{
+   height: 600px;
+  
+  }
+ }
+ @media (max-width:970px) {
+  .mySwiper{
+   height: 560px;
+  
+  }
+ }
+ @media (max-width:900px) {
+  .mySwiper{
+   height: 500px;
+  
+  }
+ }
+ @media (max-width:700px) {
+  .mySwiper{
+   height: 100px;
+  
+  }
+ }
+ @media (max-width:660px) {
+  .mySwiper{
+   height: 120px;
+  
+  }
+ }
+ @media (max-width:460px) {
+  .mySwiper{
+   height: 60px;
+  
+  }
+ }
 
+ @media (max-width:800px) {
+  .mySwiper{
+   height: 400px;
+  
+  }
+ }
+ @media (max-width:500px) {
+  .mySwiper{
+   height: 300px;
+  
+  }
+ }
 .swiper-slide img {
   display: block;
   width: 100%;
@@ -382,3 +466,40 @@ p, h2 {
   margin-top: 100px;
   background-color: rgb(84, 146, 175);
 }  
+@media (max-width:860px) {
+  .contain{
+  width: 700px;
+ position: relative;
+ top: 100px;
+  }
+ }
+ @media (max-width:764px) {
+  .contain{
+  width: 600px;
+ position: relative;
+ top: 90px;
+  }
+ }
+
+ @media (max-width:664px) {
+  .contain{
+  width: 500px;
+ position: relative;
+ top: 80px;
+  }
+ }
+ @media (max-width:526px) {
+  .contain{
+  width: 380px;
+ position: relative;
+ top: 50px;
+
+  }
+ }
+ @media (max-width:400px) {
+  .contain{
+  width: 300px;
+ position: relative;
+ top: 50px;
+  }
+ }
