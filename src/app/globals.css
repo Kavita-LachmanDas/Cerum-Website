@@ -72,7 +72,8 @@ nav {
 .nav-links a:hover {
   text-decoration: underline;
   font-weight: bold;
-  color: #3498db;
+  color: white;
+  
 }
 
 /* Mobile Styles */

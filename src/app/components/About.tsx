@@ -2,7 +2,9 @@ import React from 'react';
 
 const About = () => {
   return (
+  
     <div className="container mx-auto p-8 bg-gray-50 text-gray-800">
+      <br /><br />
       <h1 className="text-5xl font-extrabold mb-10 text-center text-gradient">
         About <span className="text-blue-500">Cerum</span>
       </h1>
